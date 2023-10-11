@@ -1,7 +1,9 @@
-### Describe your changes
+## Describe your changes
 
-(Please provide a detailed description of the changes made in this pull request)
+## Issue ticket number and link
 
-### Issue ticket number and link
-
-(If this pull request is related to a specific issue, please mention the issue number and link here)
+## Checklist before requesting a review
+- [ ] I have performed a self-review of my code
+- [ ] If it is a core feature, I have added thorough tests
+- [ ] Do we need to implement analytics?
+- [ ] Will this be part of a product update? If yes, please write one phrase about this update
